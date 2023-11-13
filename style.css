@@ -12,18 +12,16 @@
     }
 
     header {
-        text-align: center;
         padding: 20px;
         width: auto;
-        position: absolute;
+        position: relative;
         top: 0;
     }
 
     #header-image {
         display: block;
-        margin: 0 auto;
+        margin: auto;
         width: 35%;
-        height: 350%;
     }
 
     #text-box {
@@ -58,7 +56,7 @@
 
     #text-box-title-top {
         border: none;
-        padding-top: 130px;
+        padding-top: 0px;
         font-size: 40px;
         font-family: "Aptos Bold";
         text-align: center;;
@@ -101,7 +99,7 @@
 
           #text-box-title-top {
               border: none;
-              padding-top: 80px;
+              padding-top: 0px;
               padding-left: 20px;
               font-size: 30px;
               font-family: "Aptos Bold";
