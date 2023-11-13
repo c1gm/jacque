@@ -56,7 +56,7 @@
 
     #text-box-title-top {
         border: none;
-        padding-top: 0px;
+        padding-top: 15px;
         font-size: 40px;
         font-family: "Aptos Bold";
         text-align: center;;
@@ -99,7 +99,7 @@
 
           #text-box-title-top {
               border: none;
-              padding-top: 0px;
+              padding-top: 15px;
               padding-left: 20px;
               font-size: 30px;
               font-family: "Aptos Bold";
