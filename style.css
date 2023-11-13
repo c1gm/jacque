@@ -67,9 +67,9 @@
     @media all and (max-width: 600px)
         {
           #header-image {
-              display: block;
-              margin: 0 auto;
-              width: 90%;}
+            display: block;
+            margin: auto;
+            width: 80%;}
 
           #text-box {
               margin: 0px;
